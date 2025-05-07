@@ -1,4 +1,4 @@
-# Group11
+# Group66
 # HCI Coursework – PULS3122
 
 ## 📌 Project Overview
@@ -11,11 +11,6 @@ This project showcases our application of HCI principles using the Agile softwar
 
 ## Team Members
 
-- [Dihelie Gunathilaka] – Role/Responsibility
-- [Member 2 Name] – Role/Responsibility
-- [Member 3 Name] – Role/Responsibility
-- [Member 4 Name] – Role/Responsibility
-- [Member 5 Name] – Role/Responsibility
 
 ---
 
