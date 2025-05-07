@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+// Importing necessary libraries and icons
 import { ArrowLeft, CheckCircle } from 'lucide-react';
 
 const Checkout = ({ cart, setCart, setShowCheckout }) => {
@@ -22,7 +23,8 @@ const Checkout = ({ cart, setCart, setShowCheckout }) => {
       alert('Please fill in all fields.');
     }
   };
-
+// Calculate total price of items in the cart
+  // Assuming each item in the cart has a price and quantity property
   const totalPrice = cart.reduce((total, item) => total + item.price * item.quantity, 0);
 
   return (
